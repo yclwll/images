@@ -1,6 +1,0 @@
-｀｀｀lua
-
-image = ture
-
-
-｀｀｀
